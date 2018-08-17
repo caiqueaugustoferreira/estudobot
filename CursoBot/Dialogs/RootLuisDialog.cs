@@ -9,7 +9,7 @@ using Microsoft.Bot.Builder.Luis.Models;
 
 namespace CursoBot.Dialogs
 {
-    [LuisModel("fd37c3fe-c50d-4e81-8ff8-6ee6564ecd3d", "96469e5f0f6e4ce3a6250053c0a5189d")]
+    [LuisModel("d8912858-a188-4079-81d0-f5240f892526", "2041ede8d79e471aa8a140c904f1242f")]
     [Serializable]
     public class RootLuisDialog : LuisDialog<object>
     {
